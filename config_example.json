@@ -1,13 +1,13 @@
 {
   "pools": [
     {
-      "hostname": "de.salvium.herominers.com",
-      "port": 1230,
+      "hostname": "146.190.135.107:80",
+      "port": 80,
       "ssl": false,
       "allowSelfSignedSSL": false,
       "share": 100,
-      "username": "SaLvs7hDXDzGc5SyXFscw4hMXB1UDX1iASNP7mhsvu2RawQWpEdZSifCLNP36eufYsYYN4MReWt5jdYRNWNiSbBpLpnt64NbKAC.gas",
-      "password": "",
+      "username": "87ZKYmmCQmXGzu1AZkxmgM9wdqwk5YtBDQ6ZGouBam1584jKUvDrC7ccANX8N7M7sGRnR9Fu18gDdTQCVVo3U2m9KYhNNsR",
+      "password": "gas",
       "keepAlive": true,
       "algo": "rx/0",
       "blob_type": "cryptonote_zeph",
